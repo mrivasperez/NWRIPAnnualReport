@@ -31,7 +31,7 @@ button.navbar-toggler {
 }
 
 .reportHeader {
-  background: url("./img/jumbo-bg.png") no-repeat;
+  background: url(img/jumbo-bg.png) no-repeat;
   background-size: cover;
   padding: 0;
   border: 2px solid black;
@@ -46,7 +46,6 @@ button.navbar-toggler {
   border-radius: 10px;
   margin: 20px;
   border: 2px solid black;
-  font-family: ;
 }
 
 .executive .orglogo img.logoimg {
@@ -62,7 +61,7 @@ button.navbar-toggler {
 }
 
 .executivepic {
-  background: url("/img/jw-bg.png");
+  background: url(img/jw-bg.png);
   padding-top: 50px;
   border-radius: 10px;
   border: 2px solid black;
@@ -104,7 +103,7 @@ button.navbar-toggler {
 }
 
 .highlight1 {
-  background: url("/assets/img/highlight1.png");
+  background: url(img/highlight1.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -115,13 +114,13 @@ button.navbar-toggler {
 }
 
 .highlight2 {
-  background: url("/assets/img/highlight2.png");
+  background: url(img/highlight2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 .highlight3 {
-  background: url("/assets/img/highlight3.png");
+  background: url(img/highlight3.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
